@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -->
 
-This is Souvik, I love building new things, and experiment with code learning a lot in process. 
+This is Souvik, I love building new things, and experiment with code, learning a lot in process. 
 
 
 ![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=Souvikns&theme=dracula&show_icons=true)
