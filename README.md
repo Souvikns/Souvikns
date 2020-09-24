@@ -24,7 +24,7 @@ This is Souvik, I love building new things, and experiment with code, learning a
 
 ## 🔭 I’m currently working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ninja-Developers&repo=kladi&theme=dracula)](https://github.com/Ninja-Developers/kladi)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ninja-Developers&repo=kladi&theme=dracula)](https://github.com/Souvikns/JContainer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Souvikns&repo=JContainer&theme=dracula)](https://github.com/Souvikns/JContainer)
 
 ## The language I love
 <a href="https://sourcerer.io/souvikns"><img src="https://img.shields.io/badge/JavaScript-316%20commits-orange.svg" alt=""></a>
