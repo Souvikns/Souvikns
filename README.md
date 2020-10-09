@@ -23,7 +23,7 @@ This is Souvik, I love building new things, and experiment with code, learning a
 ![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=Souvikns&theme=dracula&show_icons=true)
 
 ## 🔭 I’m currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ninja-Developers&repo=kladi&theme=dracula)](https://github.com/Ninja-Developers/kladi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Phantoms&repo=kladi&theme=dracula)](https://github.com/Ninja-Developers/kladi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Souvikns&repo=JContainer&theme=dracula)](https://github.com/Souvikns/JContainer)
 
 ## The language I love
