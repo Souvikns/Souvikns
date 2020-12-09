@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 This is Souvik, I love building new things, and experiment with code, learning a lot in process. 
 
+<img src="./octocat.png" width="200px" />
 
 ![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=Souvikns&theme=dracula&show_icons=true)
 
