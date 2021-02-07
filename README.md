@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ---
 
 -->
+![banner](./banner.png)
 
 This is Souvik, I love building new things, and experiment with code, learning a lot in process. 
 
