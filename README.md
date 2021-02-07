@@ -1,21 +1,5 @@
 ## Hi, I'm Souvik 👋 🧑🏻‍💻
 
-<!--
-**Souvikns/Souvikns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-
-- 🔭 I’m currently working on [kladi](https://github.com/Ninja-Developers/kladi), which is a state mangement library for react
-- 🌱 I’m currently learning advanced javascript
-- 📫 How to reach me: ...
-- ⚡ Fun fact: I love java but i am terrible at it. 
-
----
-
--->
 ![banner](./banner.png)
 
 I am a CSE undergrad, pursuing my passion in computer science. Recently I am facinated by **react**,**nodejs** and other web technologies. I am monstly self taught, and love working on opensource projects.
