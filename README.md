@@ -10,7 +10,10 @@ I am a CSE undergrad, pursuing my passion in computer science. Recently I am fac
 
 <br>
 
+## My Github Stats 
 ![Souvik's github reademe stat](https://mygithub-readme-stats.vercel.app/api?username=Souvikns&count_private=true&theme=tokyonight)
+
+---
 
 ## 🔭 I’m currently working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Phantoms&repo=kladi&theme=dracula)](https://github.com/Ninja-Developers/kladi)
