@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 I am a CSE undergrad, pursuing my passion in computer science. Recently I am facinated by **react**,**nodejs** and other web technologies. I am monstly self taught, and love working on opensource projects.
 
 <br>
+
 ---
 
-
+<br>
 
 ![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=Souvikns&theme=dracula&show_icons=true)
 
