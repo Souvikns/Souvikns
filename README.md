@@ -2,7 +2,7 @@
 
 ![banner](./banner.png)
 
-I am a CSE undergrad, pursuing my passion in computer science. Recently I am facinated by **react**,**nodejs** and other web technologies. I am monstly self taught, and love working on opensource projects.
+I am a CSE undergrad, pursuing my passion in computer science. Recently I am facinated by **react**,**nodejs** and other web technologies. I am monstly self taught, and love experimenting with code.
 
 <br>
 
