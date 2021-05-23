@@ -32,4 +32,4 @@ I am a CSE undergrad, pursuing my passion in computer science. Recently I am fac
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikns&label=Profile%20views&color=0e75b6&style=flat" alt="souvikns" /> </p>
+<p align="left"> <img src="https://unique-visitor.vercel.app/api" alt="Visitors" /></p>
